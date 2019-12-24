@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **228** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **230** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -196,7 +196,7 @@ Click ► to show more details
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/df/3b/f7/df3bf7dd-a0ec-08f8-1851-8d753207f069/pr_source.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/b8/ab/9eb8abc1-cf22-9866-9521-88cb7772efa9/pr_source.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/02/2b/e0/022be068-3552-7b25-2bb5-675c7e878e5a/pr_source.png/460x0w.jpg'><code>Screenshot 3</code></a> 
   </details>
 
-- [Radium Web Browser](https://github.com/SlayterDev/RadiumBrowser): Tabbed web browser extendible using JavaScript extensions [` App Store`](https://apps.apple.com/app/radium-web-browser/id1274491203)  
+- [Radium Web Browser](https://github.com/SlayterDev/RadiumBrowser): Tabbed browser extendible using JavaScript extensions [` App Store`](https://apps.apple.com/app/radium-web-browser/id1274491203)  
   <details>
 	<summary><code>swift</code> <code>browser</code> <code>extensible</code> <code>webkit</code> </summary>
 
@@ -316,7 +316,7 @@ Click ► to show more details
 
 - [Falcon Messenger](https://github.com/RMizin/FalconMessenger): Fast and beautiful cloud-based messaging app [` App Store`](https://apps.apple.com/app/id1313765714)  
   <details>
-	<summary><code>swift, firebase</code> ⭐</summary>
+	<summary><code>swift, firebase</code> ⭐⭐</summary>
 
 	Added June 19, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/48/53/6c/48536cdf-5ca1-8285-c0ed-6eca4da33d1a/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/dd/eb/55/ddeb5549-ef4c-faa2-8b98-71bd796a499f/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/35/11/a5/3511a58d-ef7b-38e8-0365-05629c143489/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/12/4d/f8/124df875-c3cf-30a5-6506-83b5a80f9252/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
@@ -505,7 +505,7 @@ Click ► to show more details
 
 - [Pisth](https://github.com/ColdGrub1384/Pisth): SSH and SFTP client [` App Store`](https://apps.apple.com/app/pisth/id1331070425)  
   <details>
-	<summary><code>swift</code> <code>javascript</code> <code>html</code> ⭐</summary>
+	<summary><code>swift</code> <code>javascript</code> <code>html</code> ⭐⭐</summary>
 
 	https://pisth.github.io<br>  Added January 12, 2018<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://pisth.github.io/apt/screenshots.png'><code>Screenshot 1</code></a> 
@@ -666,14 +666,6 @@ Click ► to show more details
  
 [back to top](#readme) 
  
-- [ConfFriends](https://github.com/ay8s/ConfFriends): Connect with fellow developers during WWDC, Layers & AltConf [` App Store`](https://apps.apple.com/app/id1386399019)  
-  <details>
-	<summary><code>objc</code> </summary>
-
-	Added September  2, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/ef/8b/c2/ef8bc243-adfd-7a19-cdc0-70706eb7a536/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/fe/4e/1f/fe4e1f0d-23dc-b8df-6a7c-3f55996466b7/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/86/ef/b0/86efb0c9-c2d2-b6a1-a0be-7ecf3f336b7c/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
-  </details>
-
 - [Northern California Cherry Blossom Festival](https://github.com/keitaito/NCCBF-iOS) [` App Store`](https://apps.apple.com/app/northern-california-cherry-blossom-festival/id981016442)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -726,7 +718,7 @@ Click ► to show more details
 
 - [Blahker](https://github.com/ethanhuang13/blahker): Safari content blocker for interstitial ads, mainly for websites in Taiwan [` App Store`](https://apps.apple.com/app/blahker-ba-la-ke-gai-ban-guang/id1182699267)  
   <details>
-	<summary><code>swift</code> 🌐 </summary>
+	<summary><code>swift</code> 🌐 ⭐</summary>
 
 	Added April  2, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/ca/75/fd/ca75fdfe-3952-e440-bca6-3fe9ce0d6d09/pr_source.png/316x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/f9/23/44/f9234464-ba35-362f-a75f-e79ada4aa93e/pr_source.png/316x0w.png'><code>Screenshot 2</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/c1/04/11/c1041198-8aed-e23c-61fa-04ff8b7b38ae/pr_source.png/316x0w.png'><code>Screenshot 3</code></a> 
@@ -806,12 +798,12 @@ Click ► to show more details
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/f9/87/cb/f987cbdd-1382-b745-1eff-85cf980e673f/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/a2/44/89/a2448912-df4f-ac28-a30d-82a9699a9fe4/mzl.bdctkilq.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/ba/7c/25ba7cc2-f9b4-518c-e201-c03bcceffbe1/mzl.fxvipxna.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/8a/dc/14/8adc144f-e5bc-512e-6f1b-5583dd7bb014/mzl.uymqtwli.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
   </details>
 
-- [ownCloud](https://github.com/owncloud/ios): File browser & sync for ownCloud file hosting service [` App Store`](https://apps.apple.com/app/owncloud/id543672169)  
+- [ownCloud](https://github.com/owncloud/ios-app): File browser & sync for ownCloud file hosting service [` App Store`](https://apps.apple.com/app/owncloud/id1359583808)  
   <details>
-	<summary><code>objc</code> ⭐⭐⭐</summary>
+	<summary><code>swift</code> <code>ipad</code> </summary>
 
 	Added May 18, 2015<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/c3/5a/65/c35a6507-5ffb-5a8d-37ca-b3f5bfe163dc/mzl.fgwiqzmp.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple127/v4/49/e6/98/49e69800-75da-736d-8ea4-4c6f45d1bb2d/mzl.halrilcm.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/2e/bf/8f/2ebf8ff2-0726-9e1f-d579-76f6988cd8bf/mzl.hcqffbfb.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple127/v4/c8/ca/9e/c8ca9e43-abb5-b32f-bfe0-dc37727906a1/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple127/v4/8d/08/f7/8d08f7d6-5552-e1d7-f27c-d7ed810fdc82/mzl.fhfllkfh.jpg/460x0w.jpg'><code>Screenshot 5</code></a> 
+	<a href='https://owncloud.org/wp-content/uploads/2019/05/ownCloud-iOS-app-store-parent-file-listing.png'><code>Screenshot 1</code></a> 
   </details>
 
 - [Seafile Pro](https://github.com/haiwen/seafile-iOS): App for Seafile self-hosted file sharing [` App Store`](https://apps.apple.com/app/id639202512)  
@@ -880,6 +872,14 @@ Click ► to show more details
  
 [back to top](#readme) 
  
+- [AlphaWallet ETH Wallet](https://github.com/AlphaWallet/alpha-wallet-ios): Easy to use and secure Ethereum wallet [` App Store`](https://apps.apple.com/app/alphawallet/id1358230430)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://alphawallet.com/<br>  Added November 11, 2019<br>  License: [`agpl-3.0`](http://choosealicense.com/licenses/agpl-3.0/)<br>
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/28/bc/b1/28bcb153-cf24-d26d-86cf-4d8c45e0584d/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/97/61/21/97612163-8c96-d1cc-00a1-c913d506a0a9/mzl.ikcervdr.png/230x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/61/b3/1e/61b31e3d-e891-6662-5f70-13222f15d4ac/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> 
+  </details>
+
 - [BitPrice](https://github.com/Bruno-Furtado/bitprice-ios): Display and monitor the current Bitcoint rate [` App Store`](https://apps.apple.com/app/id1343270451)  
   <details>
 	<summary><code>swift</code> </summary>
@@ -904,6 +904,14 @@ Click ► to show more details
 	<a href='https://clogos.essdev.info/ios/iOS_code_Essentia.png'><code>Screenshot 1</code></a> 
   </details>
 
+- [Exa Wallet Monero](https://github.com/exantech/exa-wallet-ios): Receive, spend and store your Monero with a multisignature wallet [` App Store`](https://apps.apple.com/app/exa-wallet-monero/id1457024905)  
+  <details>
+	<summary><code>swift</code> </summary>
+
+	https://wallet.exan.tech/<br>  Added November 11, 2019<br>  License: `other`<br>
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/61/61/7c6161bf-70b8-95e9-824d-cff92d5960fb/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/16/ca/e116ca96-5c51-7cc0-f2aa-72e80447e7b0/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> 
+  </details>
+
 - [Trust](https://github.com/TrustWallet/trust-wallet-ios): Ethereum Wallet and Web3 DApp Browser [` App Store`](https://apps.apple.com/app/trust-ethereum-wallet/id1288339409)  
   <details>
 	<summary><code>swift</code> ⭐⭐⭐⭐</summary>
@@ -914,10 +922,10 @@ Click ► to show more details
 
 - [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios): A fully decentralized Bitcoin, Ethereum, EOS, Binance Chain, Bitcoin Cash and DASH currency wallet [` App Store`](https://apps.apple.com/app/bank-bitcoin-wallet/id1447619907)  
   <details>
-	<summary><code>swift</code> </summary>
+	<summary><code>swift</code> ⭐</summary>
 
 	Added August  9, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
-	<a href='https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/balance.png'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/transactions.png'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/horizontalsystems/Unstoppable-Wallet-Website/master/assets/images/iphone/settings.png'><code>Screenshot 3</code></a> 
+	<a href='https://github.com/horizontalsystems/unstoppable-wallet-ios/blob/master/Images/BankWalletAllTabs-X-Mockup.jpg?raw=true'><code>Screenshot 1</code></a> 
   </details>
 
 
@@ -995,6 +1003,14 @@ Click ► to show more details
 
 	Added March  6, 2016<br>  License: [`apache-2.0`](http://choosealicense.com/licenses/apache-2.0/)<br>
 	<a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/af/a9/34/afa934c6-45c5-c194-d179-f34520fe8b1c/mzl.jfnjvioh.png/460x0w.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [Matchimals.fun](https://github.com/igravitystudios/matchimals.fun): Animal matching puzzle card game [` App Store`](https://apps.apple.com/app/id1348821168)  
+  <details>
+	<summary><code>react-native</code> <code>ipad</code> </summary>
+
+	Added November 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/51/43/ef/5143ef6b-cb73-4c3f-32ad-619f15073704/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/be/49/b0/be49b0f5-9c45-34d1-a672-7d489b6a11a7/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/02/ad/4a02ad71-965b-f094-1381-22054028ada4/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/57/c7/5057c7f3-0bfe-41f2-0760-fe1b261e27c3/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [MUDRammer](https://github.com/splinesoft/MUDRammer): MUD app (Multi-User Dungeon) [` App Store`](https://apps.apple.com/app/mudrammer-a-modern-mud-client/id597157072)  
@@ -2089,14 +2105,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple111/v4/89/49/07/894907ae-8b58-5b87-f682-d813bf2f2e92/mzl.omnsgxug.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple91/v4/fa/80/dd/fa80ddf0-ebe9-34ad-1c94-a249c1a70a73/mzl.zedxpqsy.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/fc/98/37/fc98372a-6d4e-571e-1155-8dd8ecb3df54/mzl.auefrfoz.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/f2/a6/a2/f2a6a2ca-9e07-0e7b-d639-5e2914e61d29/mzl.uhuhbzbi.png/460x0w.jpg'><code>Screenshot 4</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/4d/76/85/4d76856f-0b5c-ec97-2650-24846cf34217/mzl.obzgvqoe.png/460x0w.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [MiniKeePass](https://github.com/MiniKeePass/MiniKeePass): Secure Password Manager [` App Store`](https://apps.apple.com/app/id451661808)  
-  <details>
-	<summary><code>objc</code> ⭐⭐⭐</summary>
-
-	Added February  7, 2016<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
-	<a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/8b/17/6a/8b176a9c-9261-be87-82b6-0d68068dbd5b/mzl.loqogauh.png/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/06/66/f0/0666f0dd-a899-b26a-9bb3-3519ac5d7839/mzl.ennzvmko.png/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/42/c6/f2/42c6f26f-8ede-bede-2ec0-9ea012d63308/mzl.ngeytyuw.png/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/ce/4f/89/ce4f89f5-84b9-834e-b4cc-60a528f4813f/mzl.hfcocbzr.png/460x0w.jpg'><code>Screenshot 4</code></a> 
-  </details>
-
 - [Pass](https://github.com/mssun/passforios): Client for the Pass command line app https://www.passwordstore.org/ [` App Store`](https://apps.apple.com/app/pass-password-store/id1205820573)  
   <details>
 	<summary><code>swift</code> <code>carthage</code> <code>keychainaccess</code> <code>onetimepassword</code> ⭐⭐⭐</summary>
@@ -2150,7 +2158,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 	<a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-PLP.jpg'><code>Screenshot 1</code></a> <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Post.jpg'><code>Screenshot 2</code></a> <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Profile.jpg'><code>Screenshot 3</code></a> <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Reviews.jpg'><code>Screenshot 4</code></a> <a href='https://raw.githubusercontent.com/xYello/ThePost/master/Screenshots/Wave-Social.jpg'><code>Screenshot 5</code></a> 
   </details>
 
-- [WooCommerce](https://github.com/woocommerce/woocommerce-ios): Your WooCommerce Store In Your Pocket: manage orders, receive sales notifications, and view key metrics. [` App Store`](https://apps.apple.com/app/id1389130815)  
+- [WooCommerce](https://github.com/woocommerce/woocommerce-ios): Manage orders, receive sales notifications, and view key metrics [` App Store`](https://apps.apple.com/app/id1389130815)  
   <details>
 	<summary><code>swift</code> </summary>
 
@@ -2240,6 +2248,14 @@ https://joinmastodon.org — [back to top](#readme)
 
 	https://www.stevemoser.org/posts/apple-dev/richtexture.html<br>  Added June 28, 2018<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
 	<a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/4d/3b/dc/4d3bdc1a-2bb9-589d-a574-873167dd7fb8/pr_source.png/230x0w.jpg'><code>Screenshot 1</code></a> 
+  </details>
+
+- [TypeStyle](https://github.com/ebelinski/typestyle): Stylize your text and add decorations [` App Store`](https://apps.apple.com/app/typestyle/id1441019779)  
+  <details>
+	<summary><code>swift</code> <code>ipad</code> </summary>
+
+	https://typestyle.app<br>  Added February 22, 2019<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
+	<a href='https://raw.githubusercontent.com/ebelinski/typestyle-ios/master/media/iphone-x-screenshots.png'><code>Screenshot 1</code></a> 
   </details>
 
 
@@ -2473,7 +2489,7 @@ https://firebase.google.com/ — [back to top](#readme)
  
 - [Falcon Messenger](https://github.com/RMizin/FalconMessenger): Fast and beautiful cloud-based messaging app [` App Store`](https://apps.apple.com/app/id1313765714)  
   <details>
-	<summary><code>swift, firebase</code> ⭐</summary>
+	<summary><code>swift, firebase</code> ⭐⭐</summary>
 
 	Added June 19, 2018<br>  License: [`gpl-3.0`](http://choosealicense.com/licenses/gpl-3.0/)<br>
 	<a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/48/53/6c/48536cdf-5ca1-8285-c0ed-6eca4da33d1a/pr_source.jpg/460x0w.jpg'><code>Screenshot 1</code></a> <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/dd/eb/55/ddeb5549-ef4c-faa2-8b98-71bd796a499f/pr_source.jpg/460x0w.jpg'><code>Screenshot 2</code></a> <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/35/11/a5/3511a58d-ef7b-38e8-0365-05629c143489/pr_source.jpg/460x0w.jpg'><code>Screenshot 3</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/12/4d/f8/124df875-c3cf-30a5-6506-83b5a80f9252/pr_source.jpg/460x0w.jpg'><code>Screenshot 4</code></a> 
@@ -2515,6 +2531,14 @@ http://facebook.github.io/react-native/ — [back to top](#readme)
 	<summary><code>react native</code> ⭐⭐⭐⭐⭐</summary>
 
 	Added February  9, 2017<br>  License: [`bsd-3-clause`](http://choosealicense.com/licenses/bsd-3-clause/)
+  </details>
+
+- [Matchimals.fun](https://github.com/igravitystudios/matchimals.fun): Animal matching puzzle card game [` App Store`](https://apps.apple.com/app/id1348821168)  
+  <details>
+	<summary><code>react-native</code> <code>ipad</code> </summary>
+
+	Added November 16, 2019<br>  License: [`mit`](http://choosealicense.com/licenses/mit/)<br>
+	<a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/51/43/ef/5143ef6b-cb73-4c3f-32ad-619f15073704/pr_source.png/460x0w.png'><code>Screenshot 1</code></a> <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/be/49/b0/be49b0f5-9c45-34d1-a672-7d489b6a11a7/pr_source.png/460x0w.png'><code>Screenshot 2</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/02/ad/4a02ad71-965b-f094-1381-22054028ada4/pr_source.png/460x0w.png'><code>Screenshot 3</code></a> <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/57/c7/5057c7f3-0bfe-41f2-0760-fe1b261e27c3/pr_source.png/460x0w.png'><code>Screenshot 4</code></a> 
   </details>
 
 - [PokeDB](https://github.com/satya164/PocketGear): Clean and simple Pokédex app for Pokémon GO [` App Store`](https://apps.apple.com/app/pocketdex-for-pok%C3%A9mon-go/id1255564898)  
