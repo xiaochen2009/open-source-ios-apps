@@ -3,21 +3,21 @@
 These are the 15 latest entries from the [main list](https://github.com/dkhamsing/open-source-ios-apps).
 
 
-1. [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)
-2. [Hamagen](https://github.com/MohGovIL/hamagen-react-native)
-3. [erouska-ios](https://github.com/covid19cz/erouska-ios)
-4. [rakning-c19-app](https://github.com/aranja/rakning-c19-app)
-5. [SwiftUI-MovieDB](https://github.com/alfianlosari/SwiftUI-MovieDB)
-6. [Recordings](https://github.com/objcio/app-architecture)
-7. [The News](https://github.com/dkhamsing/TheNews)
-8. [Voice Memo](https://github.com/HassanElDesouky/VoiceMemosClone)
-9. [Zeplin](https://github.com/relevantfruit/zeplin-ios)
-10. [Restaurant Viewing](https://github.com/gtokman/Restaurant-Viewing-App)
-11. [palette-from-image](https://github.com/chuongtrh/palette-from-image)
-12. [NewsAPISwift](https://github.com/lucaslimapoa/NewsAPISwift)
-13. [30 mini Swift Apps for self-study](https://github.com/soapyigu/Swift-30-Projects)
-14. [TracePrivately](https://github.com/CrunchyBagel/TracePrivately)
-15. [FakeFBWall](https://github.com/VamshiIITBHU14/FakeFBWall)
+1. [Sketch Elements](https://github.com/molcik/ios-sketch-elements)
+2. [MemeMaker](https://github.com/dempseyatgithub/MemeMaker)
+3. [Invoice Ninja](https://github.com/invoiceninja/flutter-client)
+4. [listapp](https://github.com/dkhamsing/listapp.ios)
+5. [Mamoot!](https://github.com/Benetos/Mamoot)
+6. [Revill](https://github.com/ViniciusDeep/Revill)
+7. [Astronomy Picture of the Day (APOD)](https://github.com/LASER-Yi/SwiftUI-APOD)
+8. [SafeTimer](https://github.com/Hortelanos/SafeTimer)
+9. [IndieApps](https://github.com/antranapp/IndieApps)
+10. [Dub Dub Do - TODO List](https://github.com/StephenMcMillan/Dub-Dub-Do)
+11. [Beers](https://github.com/crelies/Beers)
+12. [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar)
+13. [DivRise](https://github.com/ThasianX/DivRise)
+14. [PapersSwiftUI](https://github.com/donbytyqi/PapersSwiftUI)
+15. [NewsApiApp](https://github.com/SchwiftyUI/NewsApiApp)
 
 ## Thanks
 
